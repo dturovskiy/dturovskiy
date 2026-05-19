@@ -19,6 +19,15 @@ I build practical tools, games, bots, SaaS foundations, and server automation sy
 
 ---
 
+### 🏗️ Professional highlights
+
+* Built **armactl**, a Python/Linux TUI and server management tool for Arma Reforger Dedicated Server operators.
+* Designed **MIA Platform**, a TypeScript modular SaaS foundation for municipal administrative workflows.
+* Contributed to **HabitsBuilder**, a C# habit tracker with reminders and Google Calendar integration.
+* Developed Unity game prototypes and gameplay concepts across multiple public repositories.
+
+---
+
 ### 🧰 Tech stack
 
 <p align="center">
@@ -37,7 +46,7 @@ I build practical tools, games, bots, SaaS foundations, and server automation sy
 | MIA Platform                                                         | Modular SaaS foundation for municipal administrative workflows                       |
 | [Miner_Unity](https://github.com/dturovskiy/Miner_Unity)             | Unity 6 miner game prototype                                                         |
 | [TradingBinanceBot](https://github.com/dturovskiy/TradingBinanceBot) | Public documentation hub for a trading bot system                                    |
-| [HabitsBuilder](https://github.com/dturovskiy/Habits_Builder)        | Contributor project: C# habit tracker with reminders and Google Calendar integration |
+| [HabitsBuilder](https://github.com/Leorev01/Habits_Builder)          | Contributor project: C# habit tracker with reminders and Google Calendar integration |
 | [CalculatorApp](https://github.com/dturovskiy/CalculatorApp)         | Simple app project                                                                   |
 | [NotesApp](https://github.com/dturovskiy/NotesApp)                   | Notes app project                                                                    |
 
