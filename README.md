@@ -40,15 +40,16 @@ I build practical tools, games, bots, SaaS foundations, and server automation sy
 
 ### 📌 Featured projects
 
-| Project                                                              | What it is                                                                           |
-| -------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
-| [armactl](https://github.com/dturovskiy/armactl)                     | Installer, manager and TUI for Arma Reforger Dedicated Server                        |
-| MIA Platform                                                         | Modular SaaS foundation for municipal administrative workflows                       |
-| [Miner_Unity](https://github.com/dturovskiy/Miner_Unity)             | Unity 6 miner game prototype                                                         |
-| [TradingBinanceBot](https://github.com/dturovskiy/TradingBinanceBot) | Public documentation hub for a trading bot system                                    |
-| [HabitsBuilder](https://github.com/Leorev01/Habits_Builder)          | Contributor project: C# habit tracker with reminders and Google Calendar integration |
-| [CalculatorApp](https://github.com/dturovskiy/CalculatorApp)         | Simple app project                                                                   |
-| [NotesApp](https://github.com/dturovskiy/NotesApp)                   | Notes app project                                                                    |
+| Project                                                                          | What it is                                                                           |
+| -------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
+| [armactl](https://github.com/dturovskiy/armactl)                                 | Installer, manager and TUI for Arma Reforger Dedicated Server                        |
+| MIA Platform                                                                     | Modular SaaS foundation for municipal administrative workflows                       |
+| [Miner_Unity](https://github.com/dturovskiy/Miner_Unity)                         | Unity 6 miner game prototype                                                         |
+| [TradingBinanceBot](https://github.com/dturovskiy/TradingBinanceBot)             | Public documentation hub for a trading bot system                                    |
+| [bear_data_export_bundle](https://github.com/dturovskiy/bear_data_export_bundle) | Python CLI exporter for Binance Spot OHLCV market data to CSV                        |
+| [HabitsBuilder](https://github.com/Leorev01/Habits_Builder)                      | Contributor project: C# habit tracker with reminders and Google Calendar integration |
+| [CalculatorApp](https://github.com/dturovskiy/CalculatorApp)                     | Simple app project                                                                   |
+| [NotesApp](https://github.com/dturovskiy/NotesApp)                               | Notes app project                                                                    |
 
 ---
 
@@ -72,3 +73,5 @@ I build practical tools, games, bots, SaaS foundations, and server automation sy
 ### 📫 Contact
 
 * GitHub: [@dturovskiy](https://github.com/dturovskiy)
+* LinkedIn: [in/denysturovskiy](https://www.linkedin.com/in/denysturovskiy)
+* Website: [deusapps.store](https://www.deusapps.store/)
