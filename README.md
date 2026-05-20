@@ -25,6 +25,7 @@ I build practical tools, games, bots, SaaS foundations, and server automation sy
 * Designed **MIA Platform**, a TypeScript modular SaaS foundation for municipal administrative workflows.
 * Contributed to **HabitsBuilder**, a C# habit tracker with reminders and Google Calendar integration.
 * Developed Unity game prototypes and gameplay concepts across multiple public repositories.
+* Built Python CLI/data tooling for market-data export and automation workflows.
 
 ---
 
@@ -42,14 +43,12 @@ I build practical tools, games, bots, SaaS foundations, and server automation sy
 
 | Project                                                                          | What it is                                                                           |
 | -------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
-| [armactl](https://github.com/dturovskiy/armactl)                                 | Installer, manager and TUI for Arma Reforger Dedicated Server                        |
-| MIA Platform                                                                     | Modular SaaS foundation for municipal administrative workflows                       |
-| [Miner_Unity](https://github.com/dturovskiy/Miner_Unity)                         | Unity 6 miner game prototype                                                         |
-| [TradingBinanceBot](https://github.com/dturovskiy/TradingBinanceBot)             | Public documentation hub for a trading bot system                                    |
+| [armactl](https://github.com/dturovskiy/armactl)                                 | Python/Linux TUI for installing and managing Arma Reforger Dedicated Server          |
+| MIA Platform                                                                     | Private TypeScript SaaS foundation for municipal administrative workflows            |
+| [Miner_Unity](https://github.com/dturovskiy/Miner_Unity)                         | Unity 6 miner game prototype and gameplay concept                                    |
 | [bear_data_export_bundle](https://github.com/dturovskiy/bear_data_export_bundle) | Python CLI exporter for Binance Spot OHLCV market data to CSV                        |
 | [HabitsBuilder](https://github.com/Leorev01/Habits_Builder)                      | Contributor project: C# habit tracker with reminders and Google Calendar integration |
-| [CalculatorApp](https://github.com/dturovskiy/CalculatorApp)                     | Simple app project                                                                   |
-| [NotesApp](https://github.com/dturovskiy/NotesApp)                               | Notes app project                                                                    |
+| [TradingBinanceBot](https://github.com/dturovskiy/TradingBinanceBot)             | Public documentation hub for a trading bot system                                    |
 
 ---
 
@@ -59,6 +58,14 @@ I build practical tools, games, bots, SaaS foundations, and server automation sy
 * Developing Unity game prototypes and gameplay systems
 * Designing TypeScript SaaS foundations with clean modular architecture
 * Keeping projects documented, reproducible, and easy to run locally
+
+---
+
+### 📊 Profile summary
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dturovskiy&theme=github_dark" />
+</p>
 
 ---
 
