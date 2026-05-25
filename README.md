@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Denys Turovskiy 👋</h1>
 
 <p align="center">
-  DeusApps · SketchUp Extensions · Blender/3D Workflows · Unity / Game Dev · Python Automation · TypeScript SaaS · Linux Tooling
+  DeusApps · SketchUp/Blender Tools · Python/Linux Automation · TypeScript SaaS · Unity/C#
 </p>
 
 <p align="center">
