@@ -5,7 +5,6 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/dturovskiy/deusapps-blender-obj-importer-lite">DeusApps Blender OBJ Importer Lite</a> ·
   <a href="https://www.deusapps.store/">Website</a> ·
   <a href="https://www.linkedin.com/in/denysturovskiy">LinkedIn</a>
 </p>
