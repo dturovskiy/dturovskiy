@@ -6,6 +6,7 @@
 
 <p align="center">
   <a href="https://www.deusapps.store/">Website</a> ·
+  <a href="https://dturovskiy.github.io/armactl/">armactl</a> ·
   <a href="https://www.linkedin.com/in/denysturovskiy">LinkedIn</a>
 </p>
 
@@ -18,7 +19,7 @@ I build practical tools, game prototypes, automation systems, SaaS foundations, 
 * 🧩 **DeusApps** — small developer tools and workflow utilities
 * 🏗️ SketchUp / Blender pipeline tooling
 * 🎮 Unity / mobile game development
-* 🐍 Python CLI, TUI, and automation
+* 🐍 Python CLI, TUI, and Linux automation
 * 💎 Ruby / SketchUp extension development
 * 🧱 TypeScript SaaS platforms and modular monoliths
 * 🐧 Linux server tooling
@@ -30,7 +31,7 @@ I build practical tools, game prototypes, automation systems, SaaS foundations, 
 ### 🏗️ Professional highlights
 
 * Built **DeusApps Blender OBJ Importer Lite**, a geometry-only SketchUp extension for Blender-to-SketchUp OBJ workflows.
-* Built **armactl**, a Python/Linux TUI and server management tool for Arma Reforger Dedicated Server operators.
+* Built **[armactl](https://dturovskiy.github.io/armactl/)**, a Python/Linux TUI and server management tool for Arma Reforger Dedicated Server operators.
 * Designed **MIA Platform**, a TypeScript modular SaaS foundation for municipal administrative workflows.
 * Contributed to **HabitsBuilder**, a C# habit tracker with reminders and Google Calendar integration.
 * Developed Unity game prototypes and gameplay concepts across multiple public repositories.
@@ -46,7 +47,7 @@ I build practical tools, game prototypes, automation systems, SaaS foundations, 
 
 **Platform stack:** TypeScript, pnpm workspaces, Next.js, NestJS, PostgreSQL, Prisma, Docker Compose, Redis, MinIO, structured JSON logging, and SaaS-oriented modular architecture.
 
-**Tooling stack:** Python, Ruby, SketchUp Ruby API, Blender workflows, CLI/TUI tools, automation scripts, and documentation-first releases.
+**Tooling stack:** Python, Ruby, SketchUp Ruby API, Blender workflows, CLI/TUI tools, automation scripts, Linux server tooling, and documentation-first releases.
 
 ---
 
@@ -55,7 +56,7 @@ I build practical tools, game prototypes, automation systems, SaaS foundations, 
 | Project | What it is |
 | --- | --- |
 | [DeusApps Blender OBJ Importer Lite](https://github.com/dturovskiy/deusapps-blender-obj-importer-lite) | Geometry-only Blender OBJ importer for SketchUp with clean import presets, orientation fixes, curve smoothing, and cleanup tools |
-| [armactl](https://github.com/dturovskiy/armactl) | Python/Linux TUI for installing and managing Arma Reforger Dedicated Server |
+| [armactl](https://github.com/dturovskiy/armactl) · [Website](https://dturovskiy.github.io/armactl/) | Python/Linux TUI for installing, repairing, and managing Arma Reforger Dedicated Server |
 | MIA Platform | Private TypeScript SaaS foundation for municipal administrative workflows |
 | [Miner_Unity](https://github.com/dturovskiy/Miner_Unity) | Unity 6 miner game prototype and gameplay concept |
 | [bear_data_export_bundle](https://github.com/dturovskiy/bear_data_export_bundle) | Python CLI exporter for Binance Spot OHLCV market data to CSV |
@@ -68,6 +69,7 @@ I build practical tools, game prototypes, automation systems, SaaS foundations, 
 
 * Shipping DeusApps developer tools and SketchUp/Blender workflow utilities
 * Building practical Python/Linux tooling for game server operators
+* Maintaining **armactl** as an operator-friendly server management tool
 * Developing Unity game prototypes and gameplay systems
 * Designing TypeScript SaaS foundations with clean modular architecture
 * Keeping projects documented, reproducible, and easy to run locally
@@ -95,3 +97,4 @@ I build practical tools, game prototypes, automation systems, SaaS foundations, 
 * GitHub: [@dturovskiy](https://github.com/dturovskiy)
 * LinkedIn: [in/denysturovskiy](https://www.linkedin.com/in/denysturovskiy)
 * Website: [deusapps.store](https://www.deusapps.store/)
+* armactl: [dturovskiy.github.io/armactl](https://dturovskiy.github.io/armactl/)
