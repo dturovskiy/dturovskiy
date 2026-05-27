@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.deusapps.store/">Website</a> ·
+  <a href="https://dturovskiy.github.io/deusapps.store/">deusapps.store</a> ·
   <a href="https://dturovskiy.github.io/armactl/">armactl</a> ·
   <a href="https://www.linkedin.com/in/denysturovskiy">LinkedIn</a>
 </p>
@@ -96,5 +96,5 @@ I build practical tools, game prototypes, automation systems, SaaS foundations, 
 
 * GitHub: [@dturovskiy](https://github.com/dturovskiy)
 * LinkedIn: [in/denysturovskiy](https://www.linkedin.com/in/denysturovskiy)
-* Website: [deusapps.store](https://www.deusapps.store/)
+* Website: [dturovskiy.github.io/deusapps.store](https://dturovskiy.github.io/deusapps.store/)
 * armactl: [dturovskiy.github.io/armactl](https://dturovskiy.github.io/armactl/)
