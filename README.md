@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://dturovskiy.github.io/deusapps.store/">deusapps.store</a> ·
-  <a href="https://dturovskiy.github.io/armactl/">armactl</a> ·
+  <a href="https://dturovskiy.github.io/armactl-website/">armactl</a> ·
   <a href="https://github.com/dturovskiy/deus-ai-limits-extension">deus-ai-limits-extension</a> ·
   <a href="https://www.linkedin.com/in/denysturovskiy">LinkedIn</a>
 </p>
@@ -37,7 +37,7 @@ I build practical tools, game prototypes, automation systems, SaaS foundations, 
 * Built **[Deus AI Limits Extension](https://github.com/dturovskiy/deus-ai-limits-extension)**, a local-first Chrome extension for monitoring Codex and Claude usage limits from signed-in browser sessions.
 * Built **[Deus Commit Chart](https://github.com/dturovskiy/deus-commit-chart)**, a reusable local Git commit activity chart generator with self-contained HTML output.
 * Built **DeusApps Blender OBJ Importer Lite**, a geometry-only SketchUp extension for Blender-to-SketchUp OBJ workflows.
-* Built **[armactl](https://dturovskiy.github.io/armactl/)**, a Python/Linux TUI and server management tool for Arma Reforger Dedicated Server operators.
+* Built **[armactl](https://dturovskiy.github.io/armactl-website/)**, a Python/Linux TUI and server management tool for Arma Reforger Dedicated Server operators.
 * Designed **MIA Platform**, a TypeScript modular SaaS foundation for municipal administrative workflows.
 * Contributed to **HabitsBuilder**, a C# habit tracker with reminders and Google Calendar integration.
 * Developed Unity game prototypes and gameplay concepts across multiple public repositories.
@@ -64,7 +64,7 @@ I build practical tools, game prototypes, automation systems, SaaS foundations, 
 | [Deus AI Limits Extension](https://github.com/dturovskiy/deus-ai-limits-extension) | Chrome toolbar extension for monitoring Codex and Claude usage limits with a local-first privacy model, direct browser-side refresh, dark/light themes, and GitHub release packaging |
 | [Deus Commit Chart](https://github.com/dturovskiy/deus-commit-chart) | Reusable local Git commit activity chart generator that outputs a self-contained HTML visualization for any repository |
 | [DeusApps Blender OBJ Importer Lite](https://github.com/dturovskiy/deusapps-blender-obj-importer-lite) | Geometry-only Blender OBJ importer for SketchUp with clean import presets, orientation fixes, curve smoothing, and cleanup tools |
-| [armactl](https://github.com/dturovskiy/armactl) · [Website](https://dturovskiy.github.io/armactl/) | Python/Linux TUI for installing, repairing, and managing Arma Reforger Dedicated Server |
+| [armactl](https://github.com/dturovskiy/armactl) · [Website](https://dturovskiy.github.io/armactl-website/) | Python/Linux TUI for installing, repairing, and managing Arma Reforger Dedicated Server |
 | MIA Platform | Private TypeScript SaaS foundation for municipal administrative workflows |
 | [Miner_Unity](https://github.com/dturovskiy/Miner_Unity) | Unity 6 miner game prototype and gameplay concept |
 | [bear_data_export_bundle](https://github.com/dturovskiy/bear_data_export_bundle) | Python CLI exporter for Binance Spot OHLCV market data to CSV |
@@ -100,5 +100,5 @@ I build practical tools, game prototypes, automation systems, SaaS foundations, 
 * GitHub: [@dturovskiy](https://github.com/dturovskiy)
 * LinkedIn: [in/denysturovskiy](https://www.linkedin.com/in/denysturovskiy)
 * Website: [dturovskiy.github.io/deusapps.store](https://dturovskiy.github.io/deusapps.store/)
-* armactl: [dturovskiy.github.io/armactl](https://dturovskiy.github.io/armactl/)
+* armactl: [dturovskiy.github.io/armactl](https://dturovskiy.github.io/armactl-website/)
 
