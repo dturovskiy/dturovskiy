@@ -12,6 +12,7 @@
 <p align="center">
   <a href="https://dturovskiy.github.io/deusapps.store/">DeusApps</a> ·
   <a href="https://dturovskiy.github.io/armactl-website/">armactl</a> ·
+  <a href="https://discord.gg/UvWVVqKnYm">Discord</a> ·
   <a href="https://www.linkedin.com/in/denysturovskiy">LinkedIn</a>
 </p>
 
@@ -151,5 +152,6 @@ Typical workflow:
 
 - GitHub: [@dturovskiy](https://github.com/dturovskiy)
 - LinkedIn: [in/denysturovskiy](https://www.linkedin.com/in/denysturovskiy)
+- Discord: [Deus Apps Community](https://discord.gg/UvWVVqKnYm)
 - Website: [DeusApps](https://dturovskiy.github.io/deusapps.store/)
 - armactl: [Project website](https://dturovskiy.github.io/armactl-website/)
