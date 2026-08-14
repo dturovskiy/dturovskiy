@@ -1,13 +1,17 @@
-<h1 align="center">Hi, I'm Denys Turovskiy 👋</h1>
+<h1 align="center">Denys Turovskiy</h1>
 
 <p align="center">
-  DeusApps · Developer Tools · Linux/Server Automation · Python CLI/TUI · TypeScript SaaS · 3D Workflow Tools · Unity/C#
+  Platform Engineering · Developer Tools · MCP · Python/Linux Automation · TypeScript
 </p>
 
 <p align="center">
-  <a href="https://dturovskiy.github.io/deusapps.store/">deusapps.store</a> ·
+  Building developer infrastructure, automation, production tooling,
+  and AI-assisted engineering workflows.
+</p>
+
+<p align="center">
+  <a href="https://dturovskiy.github.io/deusapps.store/">DeusApps</a> ·
   <a href="https://dturovskiy.github.io/armactl-website/">armactl</a> ·
-  <a href="https://github.com/dturovskiy/deus-ai-limits-extension">Deus AI Limits Extension</a> ·
   <a href="https://www.linkedin.com/in/denysturovskiy">LinkedIn</a>
 </p>
 
@@ -15,109 +19,123 @@
 
 ## 🚀 About me
 
-I build practical tools, game prototypes, automation systems, SaaS foundations, browser extensions, and 3D workflow utilities.
+Software engineer focused on **developer tools, Linux/server automation, platform foundations, and production-oriented tooling**.
 
-* 🧩 **DeusApps** — small developer tools and workflow utilities
-* 🧠 **AI workflow tools** and local-first browser utilities
-* 🧭 **Chrome extensions** for usage tracking and developer productivity
-* 🏗️ **SketchUp / Blender** pipeline tooling
-* 🎮 **Unity / mobile game development**
-* 🐍 **Python CLI, TUI, and Linux automation**
-* 💎 **Ruby / SketchUp extension development**
-* 🧱 **TypeScript SaaS platforms and modular monoliths**
-* 🐧 **Linux server tooling**
-* 🤖 **Telegram / trading / admin bots**
-* 📊 **Git/GitHub automation, release packaging, and project dashboards**
-* 🛠️ **Documentation-first project structure**
-* 🧰 **Operator tooling** for server setup, repair, monitoring and configuration workflows
-* 🔍 **Quality workflow** with tests, logs, audits, manual validation and controlled refactoring
-* 🧪 **Internal developer/infrastructure tools** for project inspection, workflow automation and safer operational checks
+I build systems that need to remain understandable, testable, recoverable, and practical to operate — not just reach a working happy path.
 
-Automation and AI-assisted workflows are part of my toolkit for research, audits, documentation and faster iteration. My main focus remains on system design, verification, integration, stabilization and bringing tools to a working state.
+My work spans:
+
+- 🐍 Python CLI/TUI and automation
+- 🐧 Linux server and operator tooling
+- 🛠️ Developer infrastructure and workflow automation
+- 🤖 MCP and AI-assisted development tooling
+- 🧱 TypeScript backend/platform foundations
+- 🌐 Browser and local-first utilities
+- 🏗️ SketchUp / Blender workflow tooling
+- 🎮 Unity / C# development
+- 📦 Git, CI, releases, packaging, and deployment workflows
+
+AI-assisted development is part of my engineering workflow for research, implementation, audits, documentation, and validation.
+
+I use AI as an acceleration layer rather than an authority layer: architecture, scope, verification, security boundaries, and production decisions remain explicitly controlled.
 
 ---
 
 ## 🏗️ Main directions
 
-| Area                             | What I do                                                                                                |
-| -------------------------------- | -------------------------------------------------------------------------------------------------------- |
-| **Linux / server tooling**       | CLI/TUI tools, `systemd`, configuration workflows, repair flows, health checks, telemetry/status parsing |
-| **Developer tools**              | local utilities, Git/GitHub automation, release packaging, dashboards, repeatable workflows              |
-| **SaaS / platform foundations**  | TypeScript platforms, modular monoliths, clean module boundaries, backend/frontend foundations           |
-| **3D workflow**                  | SketchUp/Ruby tooling, OBJ import workflows, pipeline helpers, geometry cleanup                          |
-| **Browser utilities**            | Chrome extensions, local-first browser tools, usage tracking, productivity helpers                       |
-| **Game prototypes**              | Unity/C# prototypes, gameplay experiments, mobile/game concepts                                          |
-| **Automation / bots**            | Telegram/admin bots, trading bot prototypes, operational helpers                                         |
-| **Documentation-first workflow** | README files, changelogs, handoffs, architecture notes, audit checklists, release notes                  |
+| Area | Focus |
+| --- | --- |
+| **Platform / developer tooling** | Developer utilities, MCP tooling, project inspection, workflow automation, validation, release tooling |
+| **Linux / server tooling** | CLI/TUI applications, `systemd`, configuration workflows, repair flows, health checks, monitoring, and operational automation |
+| **Backend / platform foundations** | TypeScript platforms, modular architecture, APIs, persistence, and infrastructure boundaries |
+| **AI-assisted engineering** | Human-in-the-loop development, structured validation, controlled execution, review, and verification workflows |
+| **Browser utilities** | Chrome extensions, local-first browser tools, usage monitoring, and developer productivity utilities |
+| **3D workflows** | SketchUp/Ruby tooling, Blender/OBJ pipelines, geometry processing, and workflow helpers |
+| **Game development** | Unity/C# prototypes, gameplay systems, and mobile/game concepts |
 
 ---
 
-## 🧰 Tech stack
+## 🧪 Engineering approach
 
-| Area                      | Tools                                                                                                                                                                                                                 |
-| ------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Languages**             | <img src="https://skillicons.dev/icons?i=python,ruby,ts,js,cs,bash,md&perline=8" />                                                                                                                                   |
-| **Backend / platform**    | <img src="https://skillicons.dev/icons?i=nodejs,nestjs,nextjs,postgres,prisma,redis,docker&perline=8" />                                                                                                              |
-| **Linux / DevOps**        | <img src="https://skillicons.dev/icons?i=linux,bash,docker,git,github,githubactions&perline=8" />                                                                                                                     |
-| **Frontend / browser**    | <img src="https://skillicons.dev/icons?i=html,css,js,ts,nextjs&perline=8" />                                                                                                                                          |
-| **3D / game development** | <img src="https://skillicons.dev/icons?i=unity,cs,blender,ruby&perline=8" />                                                                                                                                          |
-| **Workflow**              | Git, GitHub Actions, pytest, ruff, release notes, release packaging, changelogs, project handoffs, architecture docs, audit checklists, project dashboards, documentation-first structure, logs and manual validation |
+I prefer evolving systems from **verified working foundations** rather than replacing working mechanisms simply because a newer design looks cleaner.
+
+Typical workflow:
+
+1. Define the problem, users, boundaries, and operational constraints.
+2. Inspect the existing system before changing it.
+3. Establish architecture and ownership boundaries.
+4. Implement changes in bounded slices.
+5. Validate through tests, static checks, logs, runtime evidence, and review.
+6. Preserve known-good mechanisms when they still provide useful fallback or recovery paths.
+7. Treat failures and incorrect assumptions as input for regression tests, policies, or stronger invariants.
+8. Improve architecture when evidence justifies it rather than through speculative rewrites.
+
+### Principles
+
+> **AI explores aggressively. Human decisions remain deliberate.**
+
+> **Working software earns trust through evidence, not novelty.**
+
+> **A new mechanism should improve the system without unnecessarily destroying a proven fallback.**
+
+> **Ideas are welcome. Uncontrolled scope expansion is not.**
 
 ---
 
 ## 📌 Featured projects
 
-| Project                                                                                                     | What it is                                                                                                                    |
-| ----------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
-| [armactl](https://github.com/dturovskiy/armactl) · [Website](https://dturovskiy.github.io/armactl-website/) | Python/Linux TUI and server management tool for installing, repairing, managing and monitoring Arma Reforger Dedicated Server |
-| [Deus AI Limits Extension](https://github.com/dturovskiy/deus-ai-limits-extension)                          | Local-first Chrome extension for monitoring Codex and Claude usage limits from signed-in browser sessions                     |
-| [Deus Commit Chart](https://github.com/dturovskiy/deus-commit-chart)                                        | Local Git commit activity chart generator that outputs a self-contained HTML report                                           |
-| [DeusApps OBJ Importer Lite](https://github.com/dturovskiy/deusapps-obj-importer-lite)                      | Geometry-only OBJ importer for SketchUp workflows, focused on clean OBJ import, orientation fixes and scene cleanup           |
-| MIA Platform (private repo)                                                                                 | Private TypeScript SaaS foundation for municipal administrative workflows and modular platform experiments                    |
-| [bear_data_export_bundle](https://github.com/dturovskiy/bear_data_export_bundle)                            | Python CLI exporter for Binance Spot OHLCV market data to CSV                                                                 |
-| [Miner_Unity](https://github.com/dturovskiy/Miner_Unity)                                                    | Unity miner game prototype and gameplay concept                                                                               |
-| [Tower-Cube](https://github.com/dturovskiy/Tower-Cube)                                                      | Unity/C# game prototype                                                                                                       |
-| [Space-SHUMP-Plus](https://github.com/dturovskiy/Space-SHUMP-Plus)                                          | Arcade-style Unity prototype                                                                                                  |
-| [HabitsBuilder](https://github.com/Leorev01/Habits_Builder)                                                 | Contributor project: C# habit tracker with reminders and Google Calendar integration                                          |
-| [TradingBinanceBot](https://github.com/dturovskiy/TradingBinanceBot)                                        | Public documentation hub for a trading bot system                                                                             |
-| [DeusBinanceBot](https://github.com/dturovskiy/DeusBinanceBot)                                              | Trading/automation bot prototype                                                                                              |
-| [BinanceConvertRangeBot](https://github.com/dturovskiy/BinanceConvertRangeBot)                              | Binance-related automation prototype                                                                                          |
-| [NotesApp](https://github.com/dturovskiy/NotesApp)                                                          | Android notes utility                                                                                                         |
-| [CalculatorApp](https://github.com/dturovskiy/CalculatorApp)                                                | Android calculator utility                                                                                                    |
+| Project | What it is |
+| --- | --- |
+| **DEUS MCP** *(private)* | MCP-based developer infrastructure platform connecting AI-assisted workflows with local Linux/WSL projects, tooling, validation, and operational workflows |
+| **[armactl](https://github.com/dturovskiy/armactl)** · [Website](https://dturovskiy.github.io/armactl-website/) | Python/Linux server management tool for installing, configuring, repairing, monitoring, and operating Arma Reforger Dedicated Server |
+| **MIA Platform** *(private)* | TypeScript platform foundation for municipal administrative workflows and modular backend architecture |
+| **[Deus AI Limits Extension](https://github.com/dturovskiy/deus-ai-limits-extension)** | Local-first Chrome extension for monitoring Codex and Claude usage limits from signed-in browser sessions |
+| **[Deus Commit Chart](https://github.com/dturovskiy/deus-commit-chart)** | Local Git commit activity visualization tool that generates self-contained HTML reports |
+| **[DeusApps OBJ Importer Lite](https://github.com/dturovskiy/deusapps-obj-importer-lite)** | Geometry-focused OBJ importer for Blender-to-SketchUp workflows |
+| **[bear_data_export_bundle](https://github.com/dturovskiy/bear_data_export_bundle)** | Python CLI for exporting Binance Spot OHLCV market data to CSV |
+
+### Other work
+
+- 🎮 [Miner_Unity](https://github.com/dturovskiy/Miner_Unity) — Unity mining game prototype
+- 🎮 [Tower-Cube](https://github.com/dturovskiy/Tower-Cube) — Unity/C# game prototype
+- 🎮 [Space-SHUMP-Plus](https://github.com/dturovskiy/Space-SHUMP-Plus) — arcade-style Unity prototype
+- 📱 [HabitsBuilder](https://github.com/Leorev01/Habits_Builder) — contributor project, C# habit tracker with reminders and Google Calendar integration
+- 📊 [TradingBinanceBot](https://github.com/dturovskiy/TradingBinanceBot) — public documentation hub for a trading bot system
+- 🤖 [DeusBinanceBot](https://github.com/dturovskiy/DeusBinanceBot) — trading/automation prototype
+- 🤖 [BinanceConvertRangeBot](https://github.com/dturovskiy/BinanceConvertRangeBot) — Binance-related automation prototype
+- 📱 [NotesApp](https://github.com/dturovskiy/NotesApp) — Android notes utility
+- 🧮 [CalculatorApp](https://github.com/dturovskiy/CalculatorApp) — Android calculator utility
+
+---
+
+## 🧰 Tech stack
+
+| Area | Technologies |
+| --- | --- |
+| **Languages** | Python · TypeScript · JavaScript · C# · Ruby · Bash |
+| **Backend / platform** | Node.js · NestJS · Next.js · PostgreSQL · Prisma · Redis |
+| **Linux / infrastructure** | Linux · `systemd` · Docker · Bash · process/service automation |
+| **Development workflow** | Git · GitHub · GitHub Actions · pytest · Ruff · CI/CD · release automation |
+| **Frontend / browser** | HTML · CSS · JavaScript · TypeScript · Chrome Extension MV3 |
+| **3D / game development** | Unity · C# · Blender · SketchUp Ruby API |
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,ts,js,cs,ruby,bash,html,css,nodejs,react,nestjs,nextjs,postgres,prisma,redis,pnpm,dotnet,figma,vscode,powershell,linux,ubuntu,docker,nginx,git,github,githubactions,unity,blender,md&perline=10" />
+</p>
 
 ---
 
 ## 🧭 Current focus
 
-* Maintaining and improving **armactl** as a practical server management tool
-* Developing **DeusApps** as a public hub for projects, utilities and downloads
-* Improving Python/Linux automation and operator tooling
-* Building local-first browser and workflow tools
-* Designing TypeScript SaaS/platform foundations
-* Building practical 3D workflow helpers for SketchUp/OBJ processes
-* Creating reusable Git/GitHub automation and release workflows
-* Maintaining internal developer/infrastructure tools for project inspection, workflow automation, validation and safer operational workflows
-* Keeping documentation, reproducible setup and project structure clear
-* Using tests, logs, audits and manual validation for controlled development
-
----
-
-## 🧪 How I approach projects
-
-I usually start not with code, but with understanding the system: what is being built, who it is for, what the boundaries are, and where the risks and future pressure points may appear.
-
-Typical process:
-
-1. Define the problem and expected user/operator workflow.
-2. Describe the system core, module boundaries and baseline architecture.
-3. Capture risks, edge cases and possible future requirements.
-4. Build the first working foundation.
-5. Develop the project in small slices.
-6. Validate changes through tests, logs, manual checks and audit/review passes.
-7. Update the architecture when new requirements do not fit cleanly.
-8. Keep public documentation clean and internal technical notes separate.
-
-This approach helps avoid chaotic feature growth, hidden coupling and fragile one-off fixes.
+- 🛠️ Building developer and infrastructure tooling
+- 🤖 Developing MCP and AI-assisted engineering workflows
+- 🐧 Improving Linux/server operator tooling
+- 🐍 Building production-oriented Python applications and automation
+- 🧱 Designing modular TypeScript/backend platforms
+- 📦 Strengthening testing, validation, CI, releases, packaging, and operational safety
+- 🧩 Developing DeusApps projects and utilities
+- 🏗️ Maintaining selected 3D workflow tooling
+- 🎮 Maintaining selected Unity/C# projects
 
 ---
 
@@ -131,7 +149,7 @@ This approach helps avoid chaotic feature growth, hidden coupling and fragile on
 
 ## 📫 Contact
 
-* GitHub: [@dturovskiy](https://github.com/dturovskiy)
-* LinkedIn: [in/denysturovskiy](https://www.linkedin.com/in/denysturovskiy)
-* Website: [dturovskiy.github.io/deusapps.store](https://dturovskiy.github.io/deusapps.store/)
-* armactl: [dturovskiy.github.io/armactl-website](https://dturovskiy.github.io/armactl-website/)
+- GitHub: [@dturovskiy](https://github.com/dturovskiy)
+- LinkedIn: [in/denysturovskiy](https://www.linkedin.com/in/denysturovskiy)
+- Website: [DeusApps](https://dturovskiy.github.io/deusapps.store/)
+- armactl: [Project website](https://dturovskiy.github.io/armactl-website/)
