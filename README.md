@@ -99,7 +99,7 @@ Typical workflow:
 - 🎮 [Miner_Unity](https://github.com/dturovskiy/Miner_Unity) — Unity mining game prototype
 - 🎮 [Tower-Cube](https://github.com/dturovskiy/Tower-Cube) — Unity/C# game prototype
 - 🎮 [Space-SHUMP-Plus](https://github.com/dturovskiy/Space-SHUMP-Plus) — arcade-style Unity prototype
-- 📱 [HabitsBuilder](https://github.com/Leorev01/Habits_Builder) — contributor project, C# habit tracker with reminders and Google Calendar integration
+- 📱 [HabitsBuilder](https://github.com/dturovskiy/Habits_Builder) — contributor fork of a C# habit tracker with reminders and Google Calendar integration
 - 📊 [TradingBinanceBot](https://github.com/dturovskiy/TradingBinanceBot) — public documentation hub for a trading bot system
 - 🤖 [DeusBinanceBot](https://github.com/dturovskiy/DeusBinanceBot) — trading/automation prototype
 - 🤖 [BinanceConvertRangeBot](https://github.com/dturovskiy/BinanceConvertRangeBot) — Binance-related automation prototype
