@@ -143,7 +143,15 @@ Typical workflow:
 ## 📈 Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dturovskiy&theme=github-compact&hide_border=true" />
+  <a href="https://github.com/dturovskiy/deus-commit-chart">
+    <img src="https://raw.githubusercontent.com/dturovskiy/deus-commit-chart/activity-assets/activity-90d.svg" alt="GitHub contribution activity for the last 90 days" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://raw.githubusercontent.com/dturovskiy/deus-commit-chart/activity-assets/activity-30d.svg">30d</a> ·
+  <a href="https://raw.githubusercontent.com/dturovskiy/deus-commit-chart/activity-assets/activity-90d.svg">90d</a> ·
+  <a href="https://raw.githubusercontent.com/dturovskiy/deus-commit-chart/activity-assets/activity-365d.svg">365d</a>
 </p>
 
 ---
