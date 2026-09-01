@@ -91,7 +91,7 @@ Typical workflow:
 | **[armactl](https://github.com/dturovskiy/armactl)** · [Website](https://dturovskiy.github.io/armactl-website/) | Python/Linux server management tool for installing, configuring, repairing, monitoring, and operating Arma Reforger Dedicated Server |
 | **MIA Platform** *(private)* | TypeScript platform foundation for municipal administrative workflows and modular backend architecture |
 | **[Deus AI Limits Extension](https://github.com/dturovskiy/deus-ai-limits-extension)** | Local-first Chrome extension for monitoring Codex and Claude usage limits from signed-in browser sessions |
-| **[Deus Commit Chart](https://github.com/dturovskiy/deus-commit-chart)** | Local Git commit activity visualization tool that generates self-contained HTML reports |
+| **[Deus Commit Chart](https://github.com/dturovskiy/deus-commit-chart)** · [Marketplace](https://github.com/marketplace/actions/deus-commit-chart) | GitHub Action for static 30/90/365-day contribution charts as README-safe SVGs — no live third-party chart backend |
 | **[DeusApps OBJ Importer Lite](https://github.com/dturovskiy/deusapps-obj-importer-lite)** | Geometry-focused OBJ importer for Blender-to-SketchUp workflows |
 | **[bear_data_export_bundle](https://github.com/dturovskiy/bear_data_export_bundle)** | Python CLI for exporting Binance Spot OHLCV market data to CSV |
 
