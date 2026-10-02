@@ -137,6 +137,7 @@ Typical workflow:
 - 🧩 Developing DeusApps projects and utilities
 - 🏗️ Maintaining selected 3D workflow tooling
 - 🎮 Maintaining selected Unity/C# projects
+- ⚙️ Arma Reforger server administration
 
 ---
 
