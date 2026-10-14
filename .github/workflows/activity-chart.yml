@@ -1,14 +1,13 @@
 # DEUS Commit Chart profile workflow, verified in the Marketplace consumer CI.
-# Reserve fallback: profile main push or manual dispatch publishes an independent
-# profile-owned chart snapshot. The profile README embeds the maintainer publisher
-# from deus-commit-chart/activity-assets, which has its own refresh schedule.
+# Manual-only recovery fallback: publishes independent profile-owned chart SVGs.
+# Profile README uses central deus-commit-chart/activity-assets instead.
+# Disable unused push-triggered generation to avoid duplicate work and assets.
+# To restore this fallback as the visible graph, manually switch README SVG URLs.
 # No extra app, PAT, or third-party chart service.
 name: Update contribution chart
 
 on:
   workflow_dispatch:
-  push:
-    branches: [main]
 
 permissions:
   contents: write # Required only because this example also publishes its SVGs.
