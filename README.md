@@ -145,14 +145,14 @@ Typical workflow:
 
 <p align="center">
   <a href="https://github.com/dturovskiy/deus-commit-chart">
-    <img src="https://raw.githubusercontent.com/dturovskiy/dturovskiy/activity-assets/activity-30d.svg" alt="GitHub contribution activity for the last 30 days" />
+    <img src="https://raw.githubusercontent.com/dturovskiy/deus-commit-chart/activity-assets/activity-30d.svg" alt="GitHub contribution activity for the last 30 days" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://raw.githubusercontent.com/dturovskiy/dturovskiy/activity-assets/activity-30d.svg"><kbd>30d</kbd></a>&nbsp;
-  <a href="https://raw.githubusercontent.com/dturovskiy/dturovskiy/activity-assets/activity-90d.svg"><kbd>90d</kbd></a>&nbsp;
-  <a href="https://raw.githubusercontent.com/dturovskiy/dturovskiy/activity-assets/activity-365d.svg"><kbd>365d</kbd></a>
+  <a href="https://raw.githubusercontent.com/dturovskiy/deus-commit-chart/activity-assets/activity-30d.svg"><kbd>30d</kbd></a>&nbsp;
+  <a href="https://raw.githubusercontent.com/dturovskiy/deus-commit-chart/activity-assets/activity-90d.svg"><kbd>90d</kbd></a>&nbsp;
+  <a href="https://raw.githubusercontent.com/dturovskiy/deus-commit-chart/activity-assets/activity-365d.svg"><kbd>365d</kbd></a>
 </p>
 
 ---
