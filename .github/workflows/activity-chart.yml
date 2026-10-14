@@ -1,16 +1,14 @@
 # DEUS Commit Chart profile workflow, verified in the Marketplace consumer CI.
-# Copying this workflow explicitly enables automatic profile refresh:
-# push to profile main, twice-hourly fallback, and manual dispatch.
-# This is best-effort, not instant account-wide updates; no extra app or PAT.
-# Public-repo standard GitHub Actions runners do not consume billable minutes.
+# Reserve fallback: profile main push or manual dispatch publishes an independent
+# profile-owned chart snapshot. The profile README embeds the maintainer publisher
+# from deus-commit-chart/activity-assets, which has its own refresh schedule.
+# No extra app, PAT, or third-party chart service.
 name: Update contribution chart
 
 on:
   workflow_dispatch:
   push:
     branches: [main]
-  schedule:
-    - cron: '11,41 * * * *' # Fallback every 30 min; GitHub scheduling is best-effort.
 
 permissions:
   contents: write # Required only because this example also publishes its SVGs.
